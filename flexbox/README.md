@@ -1,6 +1,6 @@
 # Flexbox  
 ___________________________________________  
-![https://blog.ida.cl/wp-content/uploads/sites/5/2017/12/Porque%CC%81-comenzar-a-utilizar-flexbox.png]  
+![](https://blog.ida.cl/wp-content/uploads/sites/5/2017/12/Porque%CC%81-comenzar-a-utilizar-flexbox.png)  
   
 ## Learning Objectives  
   
